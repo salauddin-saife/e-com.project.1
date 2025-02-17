@@ -1,1 +1,5 @@
 @import "tailwindcss";
+@theme {
+    --spacing-container: 1604px; 
+    --color-bg-main: #FFFFFF;
+  }
