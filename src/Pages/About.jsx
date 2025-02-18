@@ -1,8 +1,13 @@
 import React from 'react'
+import Navbar from '../Layout/Navbar'
+import Search_Tab from '../Layout/Search_Tab'
 
 const About = () => {
   return (
-    <div>About</div>
+    <div>
+      <Navbar/>
+      <Search_Tab />
+    </div>
   )
 }
 

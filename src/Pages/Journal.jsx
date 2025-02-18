@@ -1,8 +1,9 @@
 import React from 'react'
+import Navbar from '../Layout/Navbar'
 
 const Journal = () => {
   return (
-    <div>Journal</div>
+    <div><Navbar/></div>
   )
 }
 

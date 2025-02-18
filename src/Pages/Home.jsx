@@ -1,15 +1,16 @@
-import React from 'react'
-import Container from '../components/Container'
-import Navbar from '../layout/Navbar'
+import React from "react";
+import Navbar from "../Layout/Navbar";
+import Search_Tab from "../Layout/Search_Tab";
 
 const Home = () => {
   return (
     <div>
-        <Container container_class={""}>
-            <Navbar/>
-        </Container>
+    
+        <Navbar />
+        <Search_Tab />
+      
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
