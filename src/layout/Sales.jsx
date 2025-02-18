@@ -13,7 +13,7 @@ const Sales = () => {
           <div className="flex gap-x-12">
             <div className="w-[780px] h-[780px] flex relative">
               <Image src={Phone_sale} />
-              <div className=" absolute  top-[470px] left-[50px]">
+              <div className=" absolute  top-[450px] left-[50px]">
                 <div className="text-main-color text-[49px] font-main font-bold">
                   <h1>Phones Sale</h1>
                 </div>
