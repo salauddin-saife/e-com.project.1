@@ -7,6 +7,8 @@ import Sales from "../Layout/Sales";
 import New_arrival from "../Layout/New_arrival";
 import Bestseller from "../Layout/Bestseller";
 import Ads from "../Layout/Ads";
+import Special_offer from "../Layout/Special_offer";
+import Footer from "../Layout/Footer";
 
 const Home = () => {
   return (
@@ -19,6 +21,8 @@ const Home = () => {
       <New_arrival/>
       <Bestseller/>
       <Ads/>
+      <Special_offer/>
+      <Footer/>
     </div>
   );
 };
