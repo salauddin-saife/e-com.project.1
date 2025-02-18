@@ -20,7 +20,7 @@ const Body_slider = () => {
             <div className="text-main-color text-[49px] font-main font-bold">
               <h1>Final Offer</h1>
             </div>
-            <div className="flex align-middle items-center gap-x-3 pt-[50px] pb-[50px]">
+            <div className="flex align-middle items-center gap-x-3 pt-[35px] pb-[35px]">
               <p className="text-para-color text-[16px] font-main font-normal">
                 Up to
               </p>
