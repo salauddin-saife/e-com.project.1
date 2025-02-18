@@ -24,7 +24,7 @@ const Search_Tab = () => {
             </div>
             <div className="w-6/12 flex justify-center items-center align-middle">
               <div className=" bg-bg-main border-0 w-[601px] h-[50px] flex justify-between items-center align-middle">
-                <div>
+                <div className="w-full">
                   <input
                     type="text"
                     className="w-full bg-white border-0 py-2 px-4 text-bg-2nd font-main text-[14px] "
