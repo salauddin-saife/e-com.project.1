@@ -6,6 +6,7 @@ import Body_slide2 from "../Layout/Body_slide2";
 import Sales from "../Layout/Sales";
 import New_arrival from "../Layout/New_arrival";
 import Bestseller from "../Layout/Bestseller";
+import Ads from "../Layout/Ads";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <Sales/>
       <New_arrival/>
       <Bestseller/>
+      <Ads/>
     </div>
   );
 };
