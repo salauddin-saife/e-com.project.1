@@ -5,7 +5,7 @@ import Container from "../Components/Container";
 import Button from "../Components/Button";
 import Slide_button from "../assets/Slide_button.png";
 
-const Body_slider = () => {
+const Body_slider1 = () => {
   return (
     <div>
       <section className="bg-[#F5F7F9]">
@@ -44,4 +44,4 @@ const Body_slider = () => {
   );
 };
 
-export default Body_slider;
+export default Body_slider1;
