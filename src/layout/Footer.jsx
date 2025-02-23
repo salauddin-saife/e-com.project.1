@@ -8,7 +8,7 @@ import Social_Icon from "../assets/Social_Icons.png";
 const Footer = () => {
   return (
     <div>
-      <section className="pt-[100px]">
+      <section className="bg-[#F5F5F3] pt-[100px]">
         <Container
           container_class={
             "flex text-para-color font-main text-[14px] font-normal leading-[23px]"
