@@ -12,7 +12,7 @@ const Journal = () => {
       <Navbar />
       <Search_Tab />
       <Container>
-        <div className="w-[652px] h-[540px] mb-[200px]">
+        <div className="w-[652px] h-[540px] mb-[200px] mt-[100px]">
           <div className="text-[200px] text-main-color font-main font-bold">
             <h1>404</h1>
           </div>
