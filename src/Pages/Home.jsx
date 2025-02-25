@@ -1,5 +1,7 @@
 import React from "react";
-import Navbar from "../Layout/Navbar.jsx";
+
+import Navbar from "../Layout/Navbar";
+
 import Search_Tab from "../Layout/Search_Tab";
 import Body_slider from "../Layout/Body_slider1";
 import Body_slide2 from "../Layout/Body_slide2";
