@@ -1,6 +1,6 @@
 import React from "react";
 import Container from "../Components/Container";
-import Navbar from "../Layout/Nav";
+import Nav from "../Layout/Nav";
 
 import Search_Tab from "../Layout/Search_Tab";
 import Image from "../Components/Image";
