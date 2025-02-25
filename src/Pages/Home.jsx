@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "@/Layout/Nav";
+
 import Nav from "../Layout/Nav";
 import Search_Tab from "../Layout/Search_Tab";
 import Body_slider from "../Layout/Body_slider1";
