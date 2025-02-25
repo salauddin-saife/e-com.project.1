@@ -1,6 +1,7 @@
 import React from "react";
 import Container from "../Components/Container";
 import Navbar from "../Layout/Navbar";
+
 import Search_Tab from "../Layout/Search_Tab";
 import Image from "../Components/Image";
 import P1 from "../assets/Image_1.png";
