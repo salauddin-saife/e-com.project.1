@@ -1,6 +1,6 @@
 import React from "react";
 import Container from "../Components/Container";
-import Nav from "../Layout/Nav";
+// import Nav from "../Layout/Nav";
 
 import Search_Tab from "../Layout/Search_Tab";
 import Image from "../Components/Image";
@@ -19,7 +19,7 @@ const Product_inside = () => {
   return (
     <div>
       <section className="">
-        <Nav />
+        {/* <Nav /> */}
         <Search_Tab />
         <Container container_class={"pt-[10px]"}>
           <div className="font-main font-normal text-[12px] text-para-color text pt-[10px]">

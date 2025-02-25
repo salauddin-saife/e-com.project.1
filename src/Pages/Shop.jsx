@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "../Layout/Nav";
+// import Nav from "../Layout/Nav";
 
 import Footer from "../Layout/Footer";
 import Container from "../Components/Container";
@@ -22,7 +22,7 @@ import P8 from "../assets/P8.png"
 const Shop = () => {
   return (
     <div>
-      <Nav />
+      {/* <Nav /> */}
       <Search_Tab />
       <div className="pt-[100px] pb-[100px]">
         <Container>

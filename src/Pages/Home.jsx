@@ -1,6 +1,6 @@
 import React from "react";
 
-import Nav from "../Layout/Nav";
+// import Nav from "../Layout/Nav";
 import Search_Tab from "../Layout/Search_Tab";
 import Body_slider from "../Layout/Body_slider1";
 import Body_slide2 from "../Layout/Body_slide2";
@@ -17,7 +17,7 @@ import Footer from "../Layout/Footer";
 const Home = () => {
   return (
     <div>
-      <Nav />
+      {/* <Nav /> */}
       <Search_Tab />
       <Body_slider />
       <Body_slide2/>
