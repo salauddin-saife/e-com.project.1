@@ -15,7 +15,7 @@ import Product_inside from "./Pages/Product_inside";
 const router = createBrowserRouter(
   createRoutesFromElements(
   <>
-  <Route path="/home" element={<Home />}></Route>
+  <Route path="/" element={<Home />}></Route>
   <Route path="/about" element={<About />}></Route>
   <Route path="/contact" element={<Contact/>}></Route>
   <Route path="/shop" element={<Shop />}></Route>
