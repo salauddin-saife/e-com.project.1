@@ -6,7 +6,7 @@ import Image from "../Components/Image";
 import Logo from "../assets/logo.png"
 import { Link } from "react-router-dom";
 
-const Navbar = () => {
+const Nav = () => {
   return (
     <div className="">
       <section className="bg-bg-main ">
@@ -37,4 +37,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Nav;

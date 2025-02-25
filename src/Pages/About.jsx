@@ -1,6 +1,6 @@
 import React from "react";
 
-import Navbar from "../Layout/Navbar";
+import Navbar from "../Layout/Nav";
 
 import Search_Tab from "../Layout/Search_Tab";
 import Footer from "../Layout/Footer";
@@ -13,7 +13,7 @@ import Button from "../Components/Button";
 const About = () => {
   return (
     <div>
-      <Navbar />
+      <Nav />
       <Search_Tab />
       <Container container_class={"pb-[100px]"}>
         <div className="text-main-color text-[49px] font-main font-bold pt-[100px]">

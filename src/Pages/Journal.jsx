@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../Layout/Navbar";
+import Navbar from "../Layout/Nav";
 
 import Search_Tab from "../Layout/Search_Tab";
 import Footer from "../Layout/Footer";
@@ -10,7 +10,7 @@ import Button from "../Components/Button";
 const Journal = () => {
   return (
     <div>
-      <Navbar />
+      <Nav />
       <Search_Tab />
       <Container>
         <div className="w-[652px] h-[540px] mb-[200px] mt-[100px]">

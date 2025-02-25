@@ -1,7 +1,6 @@
 import React from "react";
 
-import Navbar from "../Layout/Navbar";
-
+import Navbar from "../Layout/Nav";
 import Search_Tab from "../Layout/Search_Tab";
 import Body_slider from "../Layout/Body_slider1";
 import Body_slide2 from "../Layout/Body_slide2";
@@ -12,10 +11,13 @@ import Ads from "../Layout/Ads";
 import Special_offer from "../Layout/Special_offer";
 import Footer from "../Layout/Footer";
 
+
+
+
 const Home = () => {
   return (
     <div>
-      <Navbar />
+      <Nav />
       <Search_Tab />
       <Body_slider />
       <Body_slide2/>
