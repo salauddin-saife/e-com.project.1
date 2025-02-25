@@ -19,7 +19,7 @@ const About = () => {
         </div>
         <div className="w-[1600px] h-[1550px]">
           <div className="font-main font-normal text-[12px] text-para-color text pt-[10px]">
-            <p>Home > Products</p>
+            <p>Home &gt; Products</p>
           </div>
           <div className="w-full h-[1323px] pt-[100px]">
             <div className="flex gap-x-8">

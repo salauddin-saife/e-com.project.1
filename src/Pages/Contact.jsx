@@ -16,7 +16,7 @@ const Contact = () => {
             <h1>Products</h1>
           </div>
           <div className="font-main font-normal text-[12px] text-para-color text pt-[10px]">
-            <p>Home > Products</p>
+            <p>Home &gt; Products</p>
           </div>
         </div>
         <div className=" w-[782px] h-[493px] pt-[50px]">

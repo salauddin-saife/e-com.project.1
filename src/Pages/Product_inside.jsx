@@ -22,7 +22,7 @@ const Product_inside = () => {
         <Search_Tab />
         <Container container_class={"pt-[10px]"}>
           <div className="font-main font-normal text-[12px] text-para-color text pt-[10px]">
-            <p>Home > Products</p>
+            <p>Home &gt; Products</p>
           </div>
           <div className="w-[1600px] h-[1600px] pt-[100px] space-y-10">
             <div className="flex justify-between items-center  ">

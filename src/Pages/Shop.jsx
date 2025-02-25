@@ -28,7 +28,7 @@ const Shop = () => {
           <div className="text-main-color text-[49px] font-main font-bold">
             <h1>Products</h1>
             <div className="text-para-color font-main text-[14px] font-normal pt-[10px] leading-[23px]">
-              <p>Home > Products</p>
+              <p>Home &gt; Products</p>
             </div>
           </div>
         </Container>
